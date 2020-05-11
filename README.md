@@ -1,5 +1,5 @@
 # repo-one
-Basics of community contribution with Markdown (alias: allen-ave)
+Basics of an open-source workflow by community 'contributors' (alias: allen-ave)
 
 ---
 * 2020-05-08 03:18:30 @2gbeh :+1:
